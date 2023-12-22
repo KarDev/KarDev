@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **Karan Yadav**, a passionate software developer currently pursuing an internship as an **Associate Software Developer**. I love diving into the world of code and creating meaningful applications. Let's explore my journey together!
+Hi there! I'm **Karan Yadav**, a passionate software developer currently working as an **Associate Software Developer**. I love diving into the world of code and creating meaningful applications. Let's explore my journey together!
 
 ## 📚 About Me
 
 - 🎓 I'm a recent graduate from **Netaji Subhas University of Technology, East Campus (Formerly AIACTR)** with a **B.Tech.** degree in **Electronics and Communication**.
-- 💼 I have been interning as an **Associate Software Developer** for the last 4 months, where I have gained hands-on experience in **Frontend** technologies like **VueJs, NuxtJs, Auth0, TypeScript, and TailwidCSS**.
+- 💼 I have been working as an **Associate Software Developer** since Mar 2023, where I have gained hands-on experience in **Frontend** technologies like **VueJs, NuxtJs, Auth0, TypeScript, and TailwidCSS**.
 - 🌱 Currently, I'm focusing on enhancing my skills in **Backend technologies** like **NestJs**.
 - 😄 Pronouns: **he/him/his**
 
