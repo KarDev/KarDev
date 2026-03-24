@@ -1,31 +1,50 @@
-# Welcome to My GitHub Profile! 👋
+# Hey, I'm Karan Yadav
 
-Hi there! I'm **Karan Yadav**, a passionate software developer currently working as an **Associate Software Developer**. I love diving into the world of code and creating meaningful applications. Let's explore my journey together!
+**Backend Engineer** | Building scalable distributed systems
 
-## 📚 About Me
+3+ years of experience building backend systems, ETL pipelines, and platform integrations at scale. Previously at **ZocaAI** (Accel-backed) and **BitQit**.
 
-- 🎓 I'm a recent graduate from **Netaji Subhas University of Technology, East Campus (Formerly AIACTR)** with a **B.Tech.** degree in **Electronics and Communication**.
-- 💼 I have been working as an **Associate Software Developer** since Mar 2023, where I have gained hands-on experience in **Frontend** technologies like **VueJs, NuxtJs, Auth0, TypeScript, and TailwidCSS**.
-- 🌱 Currently, I'm focusing on enhancing my skills in **Backend technologies** like **NestJs**.
-- 😄 Pronouns: **he/him/his**
+## What I Do
 
+- Design and build **distributed systems** and **data pipelines**
+- Architect **API integrations** (HubSpot, Shopify, CRMs)
+- Optimize system performance - reduced API usage by 60%, achieved 100% data integrity in migrations
+- Build **AI-driven automation** systems that doubled team throughput
 
-## 💻 Technical Skills
+## Tech Stack
 
-- **Languages:** Java, SQL, JavaScript, TypeScript, HTML/CSS
-- **IT Constructs:** Data Structures and Algorithms, OOPS, DBMS, Operating Systems, Computer Networks
-- **Frameworks/Libraries:** VueJs 3, NuxtJs 3, Node.js, Tailwind CSS, TypeORM, Auth0
-- **Developer Tools:** GitHub, VS Code, WebStorm, Eclipse
+```
+Backend       : Node.js, NestJS, Express.js, TypeScript
+Databases     : PostgreSQL, MySQL, Redis
+Queue/Jobs    : Bull.js, Redis
+Cloud         : AWS (EC2, S3, RDS, ECS), Docker
+Frontend      : Vue.js, Nuxt.js
+Core          : DSA, System Design, REST APIs, WebSockets
+```
 
-## 📫 Connect with Me
+## Recent Work
 
-- Email: erkaranyadav23@gmail.com
-- LinkedIn: [linkedin.com/in/ykaran](https://www.linkedin.com/in/ykaran/)
+**[ZocaAI Technologies](https://www.zoca.ai/)** *(Backed by [Accel](https://www.accel.com/companies?name=/companies/zoca&modal=true)) | Jan 2025 - Mar 2026*
+- Led zero-downtime migration with 100% data integrity
+- Built bi-directional HubSpot integration processing thousands of events daily
+- Developed AI-driven SDR system increasing throughput by 2x
 
-## 🤝 Let's Collaborate
+**[BitQit](https://www.bitqit.com/)** *(Mar 2023 - Jan 2025)*
+- Engineered Shopify integration handling 5,000+ daily transactions
+- Reduced P95 API latency by 40-60% with Redis caching
 
-I'm open to collaborating on exciting projects or contributing to **Open-Source initiatives**. If you have an interesting idea or need a helping hand, feel free to reach out to me.
+## Currently
 
-Looking forward to connecting with you and exploring the vast world of software development together!
+- Open to new opportunities
+- Volunteering at [Broseph Foundation](https://broseph.in/) - supporting justice & mental health initiatives
 
-⭐️ From [KarDev](https://github.com/KarDev)
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://karan-yadav.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ykaran/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:erkaranyadav23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KarDev)
+
+---
+
+*Building systems that scale.*
